@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MenuPreferencias</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sincronizacion">Sincronización</string>
+    <string name="sincronizar">Sincronizar</string>
+    <string name="sincronizar_detalle">Si</string>
+    <string name="tipo_conexion">Tipo de conexión</string>
+    <string name="tipo_conexion_default">w</string>
+    <string name="apariencia">Apariencia</string>
+    <string name="letras_grandes">Letras grandes</string>
+    <string name="letras_grandes_detalle">No</string>
+    <string name="otras">Otras preferencias</string>
+    <string name="turnos">Turnos</string>
+    <string name="turnos_detalle">[mañana]</string>
+    <string name="prefWeb">Web oficial</string>
+    <string name="lema">Lema</string>
+    <string name="lema_detalle">No hay lema</string>
+    <string name="tono_notificacion">Ninguno</string>
+    <string name="red_detalle_off">No jugar en red</string>
+    <string name="red_detalle_on">Jugar en red</string>
+    <string name="no">no</string>
+    <string name="si">si</string>
+    <string name="red">En red</string>
+    <string name="activity_main_lblSettings">Opciones</string>
+</resources>
